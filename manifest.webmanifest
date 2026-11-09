@@ -1,0 +1,1 @@
+{"name":"ONE — Помоги мне","short_name":"ONE","description":"Понятная помощь с телефоном для всех","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#ffffff","theme_color":"#1768e9","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
